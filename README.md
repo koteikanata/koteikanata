@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koteikanata
-- 👀 I’m interested in 
-- 🌱 I’m currently learning java and spring
+- 👀 I’m interested in java backend develpment
+- 🌱 I’m currently learning spring framework
 - 📫 How to reach me: Telegram @Koteikanata
 
