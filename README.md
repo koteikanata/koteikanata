@@ -1,4 +1,12 @@
-- 👋 Hi, I’m Nataly
+- 👋 Привет, я Наташа.
 
-- Welcome to my GitHub profile! Here, you'll find some of my personal projects showcasing my skills as a developer.
-- Telegram @Koteikanata
+Добро пожаловать на мой GitHub профиле! Здесь вы найдете некоторые из моих личных проектов.
+
+Мой стек технологий:
+- HTML/CSS
+- JavaScript
+- React
+- Git
+
+Контакты
+Telegram @Koteikanata
