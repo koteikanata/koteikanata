@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Nataly
-- I’m interested in java backend develpment
-- I’m currently learning spring framework
+
+Welcome to my GitHub profile! Here, you'll find some of my personal projects showcasing my skills as a developer.
+- 
 - Telegram @Koteikanata
